@@ -1,0 +1,3 @@
+[submodule "CppCheck"]
+	path = CppCheck
+	url = https://github.com/pouralijan/CppCheck.git
